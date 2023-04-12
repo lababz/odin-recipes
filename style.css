@@ -174,7 +174,8 @@ img {
     justify-content: center;
     flex: 1;
     width: 100%;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     gap: 20px;
 }
 
@@ -206,8 +207,9 @@ img {
     flex: 1;
     width: 100%;
     justify-content: center;
-    padding: 10px;
     gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .steps {
